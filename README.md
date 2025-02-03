@@ -37,17 +37,17 @@ These values should be calibrated to match your specific game layout to ensure a
 
 * Below is an example screenshot of how the detection area should be positioned for best results:
 
-    ![alt text](overviewSetupArea.png)
+    ![alt text](main/Images/overviewSetupArea.png)
 
 
 * This is a better view of how the area should be setup for better results:
 
-    ![alt text](setUpArea.png)
+    ![alt text](main/Images/setUpArea.png)
 
 **3. In Game Track setup**
 * The track height should be set to max for better note detection:
 
-    ![alt text](trackSetup.png)
+    ![alt text](main/Images/trackSetup.png)
 
 ## Implementation Details
 
